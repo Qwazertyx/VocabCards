@@ -32,7 +32,7 @@ return (
 		<Header />
 		{children}
 		<footer className="container py-8 text-gray-500">
-			Deck Board &copy; 2024 All rights reserved
+			VocabCards &copy; 2024 All rights reserved
 		</footer>
 
 	</body>

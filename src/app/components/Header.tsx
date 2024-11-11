@@ -29,8 +29,7 @@ export default async function Header() {
 				</form>
 
 			)}
-
-				<Link className="bg-blue-600 py-2 px-4 rounded-md text-white" href={"/new-deck"}>Create a Deck</Link>
+			<Link className="bg-blue-600 py-2 px-4 rounded-md text-white" href={"/new-deck"}>Create a Deck</Link>
 			</nav>
 			</div>
 		</header>
